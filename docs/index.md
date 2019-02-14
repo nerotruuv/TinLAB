@@ -1,8 +1,8 @@
-## Welcome Mark Steijgers TinLAB Page
+# Welcome Mark Steijgers TinLAB Page
 
 link to the [Google Drive](https://drive.google.com/drive/folders/1ewXt9vbQ264C6mOwsSfNcnti0dYgOXq0?usp=sharing)
-<!---
 
+<!--
 You can use the [editor on GitHub](https://github.com/nerotruuv/TinLAB/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -38,5 +38,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
 -->
