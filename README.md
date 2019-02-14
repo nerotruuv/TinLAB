@@ -1,2 +1,2 @@
 # TinLAB
-Here is the safeplace for al the code of the TinLAB project
+This is the place for all documatation and code of Mark Steijgers eEmbedded TinLAB project
